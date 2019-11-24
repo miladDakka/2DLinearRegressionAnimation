@@ -5,7 +5,7 @@ This is my first ever git repository upload so I'll work on the README if there 
 
 In order to run this code properly, you must import PyTorch, Matplotlib and NumPy through regular pip or conda installs (message me if you have any questions).
 
-It is very important if you want the animation to download install ffmpeg and to specifically point to the path where your "ffmpeg.exe" is located (see below, but replace 'C:\\ProgramData\\... etc' with your own file directory). 
+It is very important if you want the animation to download and install ffmpeg and to specifically point to the path where your "ffmpeg.exe" is located (see below, but replace 'C:\\ProgramData\\... etc' with your own file directory). 
 ```
 import matplotlib.pyplot as plt
 import tensorflow, torch
